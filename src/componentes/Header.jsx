@@ -3,11 +3,14 @@ function Header() {
   return (
     <header className="header-style">
       <div className="header-logo-container">
-        <span className="logo-image"> <img
-        src="https://recreio.com.br/wp-content/uploads/animacoes/meninas_superpoderosas_capa.jpg"
-        alt=""
-        className="logo-pao"
-      /></span>
+        <span className="logo-image">
+          {" "}
+          <img
+            src="https://recreio.com.br/wp-content/uploads/animacoes/meninas_superpoderosas_capa.jpg"
+            alt=""
+            className="logo-pao"
+          />
+        </span>
         <span className="logo-text">Queijo das Poderosas</span>
       </div>
 

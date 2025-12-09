@@ -1,5 +1,5 @@
 import CardProduto from "./CardProduto";   
-  import "/src/CSS/Pageprodutos.css";
+  import "./CSS/Pageprodutos.css";
 
 
 function PageProdutos() {
