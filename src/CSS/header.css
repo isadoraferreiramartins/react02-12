@@ -1,5 +1,5 @@
 .header-style {
-  background-color: #FFDE21;
+  background-color: #ffde21;
   color: rgb(0, 0, 0);
   padding: 15px 30px;
   display: flex;
@@ -11,20 +11,29 @@
   align-items: center;
   gap: 10px;
 }
-.logo-image{
-    font-size: 30px;
-    font-weight: bold;
+.logo-image {
+  font-size: 30px;
+  font-weight: bold;
 }
-.nav-menu{
-    display: flex;
-    gap: 20px;
-    align-items: center;
+.logo-text {
+  font-size: 24px;
+  font-weight: bold;
 }
-.nav-link{
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-    font-size: 18px;
+.nav-menu {
+  display: flex;
+  gap: 20px;
+  align-items: center;
 }
-.nav-link:hover{
-    text-decoration: underline;
+.nav-link {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  font-size: 18px;
+}
+.nav-link:hover {
+  text-decoration: underline;
+}
+.logo-pao {
+  width: 80px;
+  height: 50px;
+  border-radius: 20%;
 }

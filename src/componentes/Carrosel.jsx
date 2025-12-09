@@ -3,8 +3,9 @@ import "../CSS/carrosel.css";
 function Carrosel() {
   return (
     <div className="carrosel-container">
+      <p><b>“Mais forte que a Florzinha, mais saboroso que a Lindinha e mais irresistível que a Docinho!”</b></p>
       <img
-        src="https://images.unsplash.com/photo-1559511331-6a3a4e72f588?q=80&w=1547&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        src="https://s3.amazonaws.com/blog.dentrodahistoria.com.br/wp-content/uploads/2019/03/14162210/thumb_meninas-800x500.png"
         alt=""
         className="carrosel-image"
       />

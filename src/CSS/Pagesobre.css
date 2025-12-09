@@ -1,10 +1,10 @@
-.about-paragraph{
-   line-height: 1.6;
-   margin-bottom: 15px;
+.about-paragraph {
+  line-height: 1.6;
+  margin-bottom: 15px;
 }
-.abourt-list{
-    list-style-type: disc;
-    padding-left: 20px;
-    line-height: 1.8;
-    color: rgb(85, 97, 97);
-    }
+.abourt-list {
+  list-style-type: disc;
+  padding-left: 20px;
+  line-height: 1.8;
+  color: rgb(85, 97, 97);
+}

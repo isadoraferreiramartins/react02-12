@@ -5,7 +5,7 @@ import CardProduto from "./CardProduto";
 function PageProdutos() {
   return (
     <div id='produtos' className='page-container'>
-        <h2 className='section-title-centerr'> Catalogo de Produtos</h2>
+        <h2 className='section-title-center'> Catálogo de Produtos:</h2>
       <div className="card-list-container">
         <CardProduto/>
         <CardProduto/>
